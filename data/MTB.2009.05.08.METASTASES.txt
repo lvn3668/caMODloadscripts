@@ -1,0 +1,1115 @@
+TUMORKEY	METASTASISKEY	METASTASISORGAN
+21	700	Liver
+22	701	Liver
+23	702	Liver
+24	703	Liver
+58	322	CNS - Brain - Brain Stem
+58	323	Thyroid gland
+58	324	Pancreas
+58	325	Lung
+68	695	Lung
+120	699	Lung
+128	108	Lung
+136	109	Lung
+139	110	Lung
+140	111	Lung
+141	112	Lung
+142	113	Lung
+340	342	Lymph node
+683	67	Lung
+683	1135	Liver
+683	1136	Kidney
+683	1137	Spleen
+684	237	Lung
+684	1138	Liver
+684	1139	Kidney
+684	1140	Spleen
+736	737	Liver
+736	738	Lung
+748	740	Lung
+751	752	Lymph node
+751	753	Heart
+1437	1467	Lymph node
+1437	1468	Kidney
+1437	1469	Pancreas
+1437	1470	Liver
+1437	1471	Muscle - Striated - Skeletal - Diaphragm
+1953	1954	Liver
+1953	1955	Pancreas
+1953	1956	Lymph node
+1953	1957	Peritoneum
+2770	2771	Lung
+3092	3093	Lung
+3092	3094	Lymph node
+3419	3420	Lung
+4477	4478	Lung
+4527	4549	Pancreas
+4527	4550	Lymph node
+4804	8120	Liver
+4804	8121	Lung
+4976	4981	Lung
+4976	8378	Liver
+4976	8379	Peritoneum
+5894	8592	Lung
+5894	8593	Kidney
+6371	6372	Lymph node
+6371	6373	Lung
+6371	6374	Bone
+6371	6375	Kidney
+6371	6376	Adrenal gland
+6449	6450	Lung
+6452	6453	Lung
+6870	6873	Lung
+6874	6875	Lung
+8122	8123	Liver
+8122	8124	Lung
+8126	8127	Lung
+8372	8373	Lung
+8398	5030	Lung
+8473	8482	Lung
+8473	8483	Liver
+8594	8595	Lung
+8603	8604	Liver
+8603	8605	Lung
+8603	8606	Muscle - Striated - Cardiac
+8645	8646	Lymph node
+8645	8647	Lung
+8645	8648	Liver
+8645	8649	Bone marrow
+8722	8723	Lymph node
+9124	9125	Liver
+9124	9126	Lung
+9133	9134	Lung
+9223	9224	Lung
+9228	9230	Lung
+9228	9231	Liver
+9229	9232	Liver
+9288	9291	Lymph node
+9288	9293	Adrenal gland
+9288	9294	Liver
+9290	9292	Lymph node
+9760	9761	Lymph node
+9847	9848	CNS - Spinal cord
+9852	9853	Bone marrow
+9865	9872	Bone
+9884	9885	Liver
+9884	9886	Lung
+9884	9887	Lymph node
+9884	9888	Kidney
+9884	9889	Muscle - Striated
+10156	10164	Lymph node
+10221	10223	Muscle - Striated - Skeletal - Diaphragm
+10221	10224	Lymph node
+10221	10227	Lung
+10221	10228	Pancreas
+10221	10229	Liver
+10386	10388	Lymph node
+10386	10390	Liver
+10402	384	Pancreas
+10403	379	Liver
+10403	380	Pancreas
+10403	381	Spleen
+10403	382	Epididymis
+10403	383	Lymph node
+10406	10407	Liver
+10406	10408	Lung
+10406	10409	Pancreas
+10406	10410	Epididymis
+10406	10411	Bone
+10406	10412	Lymph node
+10406	10413	Spleen
+10414	10415	Lymph node
+10416	10417	Lung
+10416	10418	Bone
+10420	10421	Liver
+10461	10463	Lymph node
+10462	10464	Lymph node
+10470	10471	Lymph node
+10472	10473	Lymph node
+10476	10478	Lymph node
+10477	10479	Lymph node
+10609	10745	Lung
+10645	10673	Lung
+10646	10674	Lung
+10647	10675	Lung
+10648	10676	Lung
+10649	10677	Lung
+10650	10678	Lung
+10651	10679	Lung
+10652	10680	Lung
+10653	10681	Lung
+10654	10682	Lung
+10655	10683	Lung
+10656	10684	Lung
+10657	10685	Lung
+10658	10686	Lung
+10659	10687	Lung
+10660	10688	Lung
+10661	10689	Lung
+10662	10690	Lung
+10663	10691	Lung
+10664	10692	Lung
+10665	10693	Lung
+10666	10694	Lung
+10667	10695	Lung
+10668	10696	Lung
+10669	10697	Lung
+10670	10698	Lung
+10671	10699	Lung
+10672	10700	Lung
+10750	10749	Lung
+10770	10773	Lung
+10774	10776	Lung
+10777	10778	Lung
+10779	10780	Lung
+10781	10782	Lung
+10783	10784	Lung
+10793	10797	Lung
+10794	10798	Lung
+10858	10859	Lung
+10988	10989	Lung
+11000	11001	Lung
+11005	11006	Lung
+11157	11159	Lung
+11158	11160	Lung
+11336	11337	Lung
+11374	11375	Lymph node
+11378	11381	Lung
+11379	11380	Lung
+11379	11382	Liver
+11379	11383	Kidney
+11379	11384	Lymph node
+11385	11386	Lung
+11630	11639	Liver
+11915	11916	Peritoneum - Mesentery
+11915	11917	Liver
+11915	11918	Thymus
+11915	11919	Spleen
+11915	11920	Intestine - Large Intestine - Colon - Proximal
+11915	11921	Head
+11915	12259	Neck
+11931	11932	Peritoneum - Mesentery
+11931	11933	Thymus
+11931	11934	Spleen
+11931	11935	Lymph node
+11936	11937	Peritoneum - Mesentery
+11936	11938	Liver
+11936	11939	Intestine - Small Intestine - Duodenum
+11936	11940	Mammary gland
+11936	11941	Heart
+11936	11942	Lung
+11936	11943	Uterus
+11936	11944	Spleen
+11936	11945	Skin
+12433	12434	Liver
+12449	12450	Lymph node
+12455	12456	Liver
+12476	12477	Liver
+12480	12481	Lung
+12525	12526	Kidney
+12736	12737	Liver
+12736	12738	Lymph node
+12920	12921	(Unspecified organ)
+12928	12929	Bone - Spinal canal
+12930	12931	Lymph node
+12930	12932	Bone - Spinal canal
+12934	12935	Lymph node
+12934	12936	Lymph node
+12934	12937	Lung
+12934	12938	Lung
+12934	12939	Kidney
+12934	12940	Adrenal gland
+12942	12946	Lymph node
+12942	12948	Lung
+12943	12947	Lymph node
+12943	27361	Lung
+12955	12958	Liver
+12955	12959	Lung
+12955	12960	Lymph node
+12957	12961	Lymph node
+12963	12965	(Unspecified organ)
+12964	12966	(Unspecified organ)
+12967	12970	(Unspecified organ)
+12968	12971	(Unspecified organ)
+12969	12972	(Unspecified organ)
+13049	13051	Lung
+13050	13052	Lung
+13054	13055	Lung
+13190	13191	Lung
+13192	13193	Liver
+13490	13491	Liver
+13492	13493	Liver
+13535	13537	Lymph node
+13546	13547	Lymph node
+13551	13552	Lymph node
+13555	13596	Lymph node
+13558	13559	Lymph node
+13558	13560	Lung
+13561	13562	Lymph node
+13561	13563	Lung
+13564	13565	Lymph node
+13564	13566	Lung
+14040	14041	Lung
+14046	14047	Liver
+14046	14048	Lung
+14117	14118	Lung
+14619	14620	Lymph node
+14622	4679	Lung
+14622	4680	Liver
+14622	4681	Kidney
+14622	4682	Spleen
+14624	4683	Lung
+14633	14634	Lymph node
+14633	14635	Bone
+14633	14636	Skin
+14633	14637	Liver
+14633	14638	Lung
+14639	14641	Lymph node
+14639	14642	Bone
+14639	14643	Liver
+14639	14644	Lung
+14639	14645	Spleen
+14639	14646	Kidney
+14639	14647	Adrenal gland
+14983	14984	Kidney
+14983	14985	Lymph node
+14992	14993	Kidney
+14992	14994	Lymph node
+15001	15002	Kidney
+15001	15003	Lymph node
+15007	15008	Kidney
+15007	15009	Lymph node
+15382	15383	Lung
+15400	15402	Lung
+15483	15484	Lung
+15489	15490	(Unspecified organ)
+15489	15491	Lung
+15489	15492	Liver
+15489	15493	Heart
+15494	15495	(Unspecified organ)
+15494	15496	Lung
+15494	15497	Liver
+15494	15498	Lymph node
+15494	15499	Adrenal gland
+15518	15519	Bone marrow
+15518	15520	Spleen
+15518	15521	Thymus
+15518	15522	Lymph node
+15575	15576	Lung
+15579	15580	Lung
+15583	15584	Lung
+15588	15589	Lung
+15591	15592	Lung
+15609	15610	Lung
+15611	15612	Lung
+15620	15621	Lung
+15623	15624	Lung
+15630	15631	Lung
+15632	15633	Lung
+15634	15635	Lung
+15636	15637	Lung
+15639	15644	Lung
+15641	15643	Lung
+15645	15646	Lung
+15645	15647	Lymph node
+15645	15648	Liver
+15645	15649	Kidney
+15650	15651	Lung
+15650	15652	Lymph node
+15650	15653	Liver
+15650	15654	Kidney
+15661	15663	Lung
+15682	15683	Lung
+15702	15704	Lung
+15703	27442	Lung
+15709	15710	Lung
+15709	15711	Liver
+15793	15794	Lung
+15797	15798	Lung
+15843	15844	Lung
+15843	15845	Lymph node
+15843	15846	Liver
+15843	15847	Spleen
+15843	15848	Bone
+15849	15852	Lung
+15850	15853	Lung
+15851	15854	Lung
+16031	16035	Lymph node
+16031	16036	Lung
+16063	16064	Lung
+16146	16147	Lung
+16154	16155	Liver
+16154	16156	Lung
+16154	16157	Kidney
+16162	16163	Lung
+16498	16499	Nerve
+16758	16759	Lung
+16758	16760	Liver
+16826	16827	Spleen
+16852	16853	(Unspecified organ)
+16945	16946	Lung
+17123	17124	Lung
+17202	17200	Lymph node
+17202	17201	CNS - Spinal cord
+17331	17332	Lymph node
+17331	17333	Kidney
+17492	17493	Spleen
+17492	17494	Liver
+17492	17495	Thymus
+17492	17496	Lymph node
+17492	17497	Bone
+17768	17769	Lung
+17870	17872	(Unspecified organ)
+18036	18037	Lung
+18096	18097	Lymph node
+18096	18098	Lung
+18096	36327	Muscle - Striated - Skeletal
+18134	18135	Lymph node
+18138	18139	Lymph node
+18142	18143	Lymph node
+18146	18147	Lymph node
+18212	18213	Liver
+18212	18214	Lung
+18296	18297	Liver
+18397	18398	Kidney
+18403	18404	Liver
+18462	18463	Lung
+18464	18469	Lung
+18471	18472	Liver
+18474	18497	Lung
+18489	18493	Peritoneum - Omentum
+18489	18494	Peritoneum - Mesentery
+18489	18495	Peritoneum - Parietal
+18489	18496	Peritoneum - Visceral
+18489	18500	Peritoneum
+22040	22041	Lung
+22042	22043	Lung
+22121	22287	Lung
+22276	22281	Lung
+22278	22282	Kidney
+22279	22283	Liver
+22280	22284	Lymph node
+22280	22285	Adipose tissue - Brown
+22280	22286	Lung
+22647	21999	Lung
+22647	22000	Bone marrow
+22647	22002	Lymph node
+22647	22003	Kidney
+22873	22874	Lung
+22967	22968	Lung
+22967	23852	Kidney
+22967	23853	Adipose tissue
+22967	23854	Intestine
+22991	22995	Lung
+22994	22996	Lung
+23014	24005	Lung
+23238	23239	Mediastinum
+23238	23241	Adrenal gland
+23238	23263	Ovary
+23246	23247	Mediastinum
+23249	23252	Mediastinum
+23251	23253	Bone
+23251	23254	CNS - Brain
+23251	23255	Adrenal gland
+23251	23256	Liver
+23251	24028	Ovary
+23385	23408	(Unspecified organ)
+23386	23387	(Unspecified organ)
+23386	23876	Liver
+23386	23877	Lung
+23390	23391	(Unspecified organ)
+23392	23393	(Unspecified organ)
+23394	23395	(Unspecified organ)
+23398	23399	Myocardium
+23400	23401	Lung
+23406	23407	(Unspecified organ)
+23643	23644	Lymph node
+24031	24032	Lung
+24039	24040	Lung
+24043	24044	Lung
+24783	24785	Lung
+24827	24831	Lung
+25125	25126	Lung
+25125	25127	Liver
+25128	25129	Lung
+25128	25130	Liver
+25131	25132	Lung
+25131	25133	Liver
+25134	25135	Lung
+25134	25136	Liver
+25138	25139	Lung
+25138	25140	Liver
+25143	25144	Lung
+25143	25145	Liver
+25146	25147	Lung
+25146	25148	Liver
+25439	25433	Lung
+25494	25495	Lung
+25496	25497	Lung
+25498	25499	Lung
+25568	25569	Lung
+25568	25570	Lymph node
+25574	25575	Lung
+25594	25779	Liver
+25594	25780	Lung
+25598	25783	Lung
+25611	25789	Lung
+25642	25793	Lung
+25642	25795	Liver
+25649	25800	Liver
+25649	25801	Lung
+25650	25802	Lymph node
+25653	25804	(Unspecified organ)
+25675	25791	Lung
+25675	25792	Liver
+25677	25803	(Unspecified organ)
+25721	25781	Lung
+25721	25782	Liver
+25724	25788	CNS - Brain
+25726	25798	Liver
+25726	25799	Uterus
+25730	25784	Lung
+25732	25794	Liver
+25732	25796	Lung
+25734	25805	(Unspecified organ)
+25735	25786	Pancreas
+25735	25787	Testis
+25737	25785	Liver
+25746	25797	Liver
+25767	25790	Lung
+25957	25955	Adipose tissue - White
+25957	25956	Liver
+25957	25958	Skin
+26477	26478	Lymph node
+26477	26479	Liver
+26701	26702	Lymph node
+26701	26703	Kidney
+26753	1695	Lymph node
+26753	1696	Liver
+26753	1697	Pancreas
+26753	1698	Spleen
+26753	1699	Lung
+26756	26757	Liver
+26756	26758	Kidney
+26809	26810	Lung
+26822	26823	Skin
+26822	26824	Muscle
+26822	26825	Peritoneum
+27046	27082	(Unspecified organ)
+27047	27081	(Unspecified organ)
+27225	27226	Lung
+27327	27328	Lung
+27358	25464	Lung
+27359	25465	Lung
+27360	8021	Lung
+27362	17824	(Unspecified organ)
+27362	17825	Intestine
+27363	18115	Blood vessel
+27363	18116	Pancreas - Duct
+27363	18117	Lymph node
+27364	23642	Lymph node
+27365	23652	CNS - Brain - Brain Stem
+27367	23681	Lung
+27367	23683	Lymph node
+27368	12774	Lymph node
+27368	12775	Liver
+27368	12776	Lung
+27369	10099	Lymph node
+27371	4581	Liver
+27371	4582	Lung
+27371	4583	Ovary
+27371	4584	Lymph node
+27371	4585	Kidney
+27371	4586	Testis
+27371	4587	CNS - Brain
+27371	4588	Muscle
+27371	4589	Bone
+27371	4590	Bone marrow
+27372	8015	Lung
+27372	8016	Kidney
+27372	8017	Liver
+27372	8018	Spleen
+27373	2775	Lung
+27374	2749	Lung
+27375	2759	Lung
+27376	2769	Lung
+27377	2739	Lung
+27378	1617	Lymph node
+27378	1618	Liver
+27378	1619	Lung
+27378	1620	Spleen
+27378	1621	Muscle - Striated - Skeletal - Diaphragm
+27378	1622	Stomach - Glandular
+27378	1623	Muscle - Striated - Skeletal
+27378	1624	Connective tissue
+27378	1625	Kidney
+27378	1626	Thymus
+27378	1627	Thyroid gland
+27378	1628	CNS - Brain
+27378	1629	Intestine - Small Intestine
+27378	1630	Intestine - Large Intestine
+27378	1631	Salivary gland
+27378	1632	Uterus
+27378	1633	Vagina
+27378	1634	Heart
+27378	1635	Esophagus
+27378	1636	Trachea
+27378	1637	Adrenal gland
+27378	1638	Urinary Bladder
+27443	27444	Lung
+27448	6397	Lymph node
+27448	6398	Adrenal gland
+27448	6399	Kidney
+27448	6400	Lung
+27448	6401	Bone
+27448	6402	Thymus
+27930	27931	Ureter
+27930	27932	Kidney
+27930	27933	Renal pelvis
+27936	27937	Spleen
+27936	27938	Thymus
+27936	27939	Salivary gland
+27936	27940	Neck
+27936	27941	Peritoneum - Mesentery
+27936	27942	Mediastinum
+27943	27944	Liver
+27943	27945	Spleen
+27943	27946	Subcutis
+27943	27947	Pancreas
+27948	27949	Liver
+27948	27950	Spleen
+27948	27951	Pancreas
+28070	28071	Liver
+28070	28072	Adrenal gland - Cortex
+28070	28073	Lung
+28070	28074	Lymph node - peripancreatic
+28070	28075	Blood vessel
+28070	28076	Nerve
+28070	28077	Muscle - Striated - Skeletal - Diaphragm
+28121	28122	Liver
+28121	28123	Lymph node - mesentery
+28126	28127	Liver
+28126	28128	Lymph node - mesentery
+28126	28129	Muscle - Striated - Skeletal - Diaphragm - Serosa
+28135	28136	Liver
+28137	28138	Liver
+28191	28195	Intestine - Small Intestine
+28230	28231	Lung
+28232	28235	Lung
+28232	28236	Liver
+28232	28237	Uterus
+28243	28244	Lung
+28403	28404	Lung
+28415	28416	(Unspecified organ)
+28440	28441	Lung
+28440	28442	Lymph node
+28444	28445	Lung
+28444	28446	Lymph node
+28540	28541	Lung
+28552	28553	Lung
+28573	28574	Lung
+28579	28580	Lung
+28584	28585	Lung
+28588	28589	Kidney
+28594	28595	Lung
+28596	28597	CNS - Brain
+28602	28603	CNS - Brain
+28605	28606	CNS - Brain
+28675	28679	Lymph node
+28675	28680	Lung - Alveolus
+28675	28681	Bone
+28783	28784	Lung
+28829	28830	Lung
+28829	28831	Spleen
+28837	28838	Muscle
+28837	28839	Pericardium
+28837	28840	Spleen
+28837	28841	Liver
+28837	28842	Kidney
+29055	28248	Abdominal cavity
+29056	28253	Abdominal cavity
+29057	28215	Uterus
+29057	28216	Uterus - Cervix
+29058	28217	Oviduct
+29059	28211	Seminal vesicle
+29059	28212	Vas deferens
+29059	28213	Epididymis
+29059	28214	Prostate gland - anterior lobe
+29092	29093	Lymph node
+29094	29095	Lymph node
+29096	29097	Lymph node
+29098	29099	Lymph node
+29211	27755	Lung
+29211	27756	Lung
+29212	29210	CNS - Spinal cord
+29212	29213	Lymph node
+29212	29214	CNS - Brain
+29212	29215	Peyer's patch
+29216	29217	Epididymis
+29216	29218	Pancreas
+29216	29219	Intestine - Large Intestine - Cecum
+29216	29220	Liver
+29216	29221	Kidney
+29216	29222	Lung
+29216	29223	Spleen
+29216	29224	Muscle - Striated - Skeletal
+29216	29225	CNS - Meninges
+29216	29226	Heart
+29216	29227	Intestine - Small Intestine - Duodenum
+29216	29228	Intestine - Small Intestine - Jejunum
+29216	29229	Stomach
+29235	29236	Lung
+29259	29260	Salivary gland
+29259	29261	Lung
+29259	29262	Heart
+29259	29263	Liver
+29259	29264	Spleen
+29259	29265	Lymph node
+29270	29271	Lung
+29272	29273	Lung
+29282	29283	Lung
+29285	29286	Lung
+29287	29289	Lung
+29291	29292	Lung
+29293	29294	Lung
+29343	29344	Peyer's patch
+29346	29347	Peyer's patch
+29349	29351	Lymph node
+29356	29357	Lung
+29421	29422	Lung
+29430	27836	Liver
+29430	27837	Liver
+29430	27838	Liver
+29430	27839	Kidney
+29430	27840	Kidney
+29430	27841	Kidney
+29430	27842	Pancreas
+29430	27843	Pancreas
+29430	27844	Pancreas
+29430	27845	Spleen
+29430	27846	Spleen
+29430	27847	Spleen
+29433	29434	Lung
+29449	29450	Lung
+29600	29601	Liver
+29600	29602	Kidney
+29600	29603	Lung
+29600	29604	Bone marrow
+29600	29605	Pericardium
+29600	29606	Blood
+29600	29607	Spleen
+29616	29619	Liver
+29616	29621	Spleen
+29725	29727	Liver
+29725	29731	Spleen
+29774	29775	Spleen
+29774	29776	Lung
+29774	29777	Liver
+29791	29792	Spleen
+29791	29793	Liver
+29791	29794	Kidney
+29791	29795	Lymph node
+29791	29796	Lung
+29791	29797	Thymus
+29791	29798	Bone marrow
+29791	29799	Salivary gland
+29791	29800	Pancreas
+29791	29801	Heart
+29791	29802	CNS - Meninges
+29791	29803	Adrenal gland
+29791	29804	Ovary
+29791	29805	Testis
+29791	29806	Seminal vesicle
+29869	29870	Lymph node
+29869	29871	Retroperitoneum
+29881	29882	Liver
+29881	29883	Kidney
+29881	29884	Lymph node
+29881	29885	Lung
+29881	29886	Bone marrow
+29881	29887	Salivary gland
+29881	29888	Pancreas
+29881	29889	Heart
+29881	29890	CNS - Meninges
+29881	29891	Adrenal gland
+29881	29892	Ovary
+29881	29893	Testis
+29881	29894	Seminal vesicle
+29895	29896	Spleen
+29897	29898	Thymus
+29901	29902	Lymph node
+29901	29903	Lymph node
+29901	29904	Spleen
+29901	29905	Spleen
+29937	29938	Liver
+29948	29949	Liver
+29957	29958	Liver
+29959	29960	Liver
+29964	29965	Lung
+29969	29970	Liver
+29986	29988	Lung
+29995	29997	Liver
+29999	30000	Liver
+30011	30013	Lung
+30014	30016	Lung
+30101	30102	Lymph node
+30330	30331	Liver
+30330	30332	Spleen
+30330	30333	Kidney
+30396	30398	(Unspecified organ)
+30397	30399	Skin
+30405	30406	(Unspecified organ)
+30421	30423	(Unspecified organ)
+30421	30427	Mammary fat pad
+30421	30431	Lung
+30434	30435	Lymph node
+30434	30436	Spleen
+30438	30439	Lymph node
+30438	30440	Spleen
+30533	30534	Lung
+30558	30564	Spleen
+30558	30565	Lymph node - inguinal
+30560	30563	CNS - Brain
+30566	30570	CNS - Brain
+31111	31112	Lung
+31114	31115	Lung
+31183	31185	Lung
+31183	31186	Liver
+31183	31187	Mesenchymal tissue
+31184	31188	Lung
+31184	31189	Liver
+31184	31190	Mesenchymal tissue
+31204	31218	(Unspecified organ)
+31204	31219	(Unspecified organ)
+31205	31216	(Unspecified organ)
+31206	31217	(Unspecified organ)
+31222	31228	(Unspecified organ)
+31235	31238	Liver
+31237	31239	Uterus
+31290	31291	(Unspecified organ)
+31292	31293	(Unspecified organ)
+31292	31294	(Unspecified organ)
+31292	31295	(Unspecified organ)
+31305	31308	Connective tissue - Fibroblast
+31323	31324	Lung
+31331	31332	Lung
+31463	31464	Peritoneum
+31463	31465	Abdominal cavity
+31463	31466	Pancreas
+31463	31467	Liver
+31463	31468	Intestine
+31463	31469	Lung
+31589	31590	Lung
+31589	31591	Pancreas
+31619	31620	(Unspecified organ)
+31623	31624	Intestine
+31630	31631	CNS - Brain - Cerebellum
+31655	31656	Liver
+31655	31657	Lung
+31655	31658	Spleen
+31660	31661	Lymph node
+31674	31675	Lymph node
+31674	31676	Blood
+31726	31753	Lymph node
+31726	31754	Liver
+31726	31755	Lung
+31726	31758	Sex cord stromal cell (sex not specified)
+31726	31759	Liver
+31969	31970	(Unspecified organ)
+31978	31979	(Unspecified organ)
+31982	31983	(Unspecified organ)
+32112	32113	(Unspecified organ)
+32121	32122	(Unspecified organ)
+32129	32130	(Unspecified organ)
+32165	32166	(Unspecified organ)
+32178	32179	(Unspecified organ)
+32186	32187	(Unspecified organ)
+32188	32189	(Unspecified organ)
+32192	32193	Lymph node
+32198	32199	Liver
+32198	32200	(Unspecified organ)
+32207	32208	(Unspecified organ)
+32209	32210	(Unspecified organ)
+32213	32214	Lymph node
+32218	32219	Lung
+32223	32224	(Unspecified organ)
+32234	32235	(Unspecified organ)
+32315	32316	Salivary gland
+32315	32317	Liver
+32315	32318	Kidney
+32315	32319	Adrenal gland
+32315	32320	Heart
+32315	32321	Lung
+32315	32322	Thyroid gland
+32315	32323	Pancreas
+32315	32324	Pituitary gland
+32315	32325	Testis
+32315	32326	Seminal vesicle
+32369	32370	Salivary gland
+32369	32371	Ovary
+32369	32372	Kidney
+32369	32373	Uterus
+32369	32374	Heart
+32369	32375	Liver
+32369	32376	Pancreas
+32369	32377	Pituitary gland
+32369	32378	Epididymis
+32369	32379	Eye
+32369	32380	Gallbladder
+32369	32381	Parathyroid gland
+32369	32382	Prostate gland
+32369	32383	Intestine - Small Intestine
+32369	32384	Testis
+32369	32385	Thyroid gland
+32369	32386	Adrenal gland
+32369	32387	Lung
+32369	32388	Seminal vesicle
+32400	32402	Lung
+32422	32423	Salivary gland
+32422	32424	Liver
+32422	32425	Kidney
+32422	32426	Adrenal gland
+32422	32427	Heart
+32422	32428	Lung
+32422	32429	Thyroid gland
+32422	32430	Pancreas
+32422	32431	Pituitary gland
+32422	32432	Testis
+32422	32433	Seminal vesicle
+32440	32441	Muscle - Striated - Cardiac
+32448	32449	Lymph node
+32456	32457	Salivary gland
+32456	32458	Ovary
+32456	32459	Kidney
+32456	32460	Uterus
+32456	32461	Heart
+32456	32462	Liver
+32456	32463	Pancreas
+32456	32464	Pituitary gland
+32456	32465	Epididymis
+32456	32466	Eye
+32456	32467	Gallbladder
+32456	32468	Parathyroid gland
+32456	32469	Prostate gland
+32456	32470	Intestine - Small Intestine
+32456	32471	Testis
+32456	32472	Thyroid gland
+32498	32499	Lung
+32512	32513	Lung
+32526	32527	Lung
+32575	32576	Peritoneum
+32575	32577	Lymph node
+32799	32800	Lung
+32809	32810	Kidney
+32809	32811	Liver
+32809	32812	Lung
+32809	32813	Intestine
+33061	33060	Pancreas
+33061	33062	Intestine
+33061	33063	Kidney
+33061	33064	Liver
+33061	33065	Peritoneal cavity
+33061	33066	Peritoneal cavity
+33205	33206	Lymph node
+33213	33214	Lymph node
+33324	33325	Liver
+33329	33330	Liver
+33329	33331	Kidney
+33329	33332	Lung
+33329	33333	Adipose tissue
+33329	33334	Testis
+33329	33335	Salivary gland
+33342	33343	Stomach
+33342	33344	Intestine - Small Intestine
+33342	33345	Salivary gland
+33342	33346	Liver
+33342	33347	Lung
+33342	33348	Kidney
+33342	33349	Pancreas
+33342	33350	Spleen
+33342	33351	Bone marrow
+33342	33352	Adipose tissue
+33342	33353	Lymph node
+33342	33354	PNS - Ganglion - Dorsal root
+33390	33407	Lymph node
+33391	33408	Lymph node - sacral
+33392	33410	Liver
+33393	33411	Lymph node - inguinal
+33393	33412	Lymph node - cervical
+33393	33413	Liver
+33394	33414	Lymph node - cervical
+33399	33416	Lymph node - cervical
+33401	33418	Lymph node - inguinal
+33401	33419	Lung
+33402	33420	Lymph node - cervical
+33402	33421	Lung
+33426	33440	Liver
+33426	33441	Lung
+33428	33442	Lymph node - axillary
+33428	33443	Lymph node - brachial
+33428	33444	Lung
+33429	33445	Lymph node - inguinal
+33429	33446	Liver
+33430	33447	Lymph node - axillary
+33430	33448	Lung
+33432	33449	Lung
+33434	33452	Lung
+33435	33453	Lymph node - inguinal
+33454	33458	Lymph node
+33454	33459	Lung
+33456	33460	Lymph node - inguinal
+33456	33461	Lung
+33457	33462	Lung
+33574	33604	Lymph node
+33574	33605	Lung
+33574	33606	Gastrointestinal tract
+33574	33607	Liver
+33574	33608	Pancreas
+33579	33602	Lung
+33579	33603	Lymph node
+33585	33609	Lymph node
+33585	33610	Lung
+33585	33611	Liver
+33585	33612	Urinary Bladder
+33931	33932	CNS - Spinal cord
+34055	34057	(Unspecified organ)
+34055	34058	Liver
+34063	34064	(Unspecified organ)
+34065	34066	CNS - Brain
+34067	34068	(Unspecified organ)
+34176	34177	Lung
+34182	34186	Lung
+34183	34187	Lung
+34184	34188	Lung
+34185	34189	Lung
+34215	34217	Lung
+34215	34219	Lung
+34216	34218	Lung
+34216	34220	Lung
+34222	34223	CNS - Brain
+34222	34224	Lymph node
+34226	34227	Lymph node
+34226	34228	CNS - Brain
+34226	34229	Nerve - Optic
+34262	34263	Peritoneal cavity
+34270	34271	Peritoneal cavity
+34270	34272	Lymph node
+34273	34274	Peritoneal cavity
+34276	34277	Peritoneal cavity
+34276	34278	Lymph node
+34281	34282	Peritoneal cavity
+34281	34283	Spleen
+34281	34284	Lymph node
+34286	34287	Peritoneal cavity
+34286	34288	Lymph node
+34291	34292	Peritoneal cavity
+34293	34294	Peritoneal cavity
+34295	34296	Peritoneal cavity
+34304	34306	Lung
+34345	34346	(Unspecified organ)
+34345	34347	Seminal vesicle
+34570	34571	(Unspecified organ)
+34570	34572	Lymph node - mediastinal
+34570	34573	Heart
+34570	34574	Pleura - Parietal
+34570	34575	Muscle - Striated - Skeletal - Diaphragm
+34570	34576	Liver
+34570	34577	Adrenal gland
+34570	34578	Kidney
+34570	34579	Lymph node - mesentery
+34570	34580	Pancreas
+34570	34581	Eye
+34570	34582	Body wall
+34570	34583	Mammary gland
+34586	34587	Lung
+34598	34599	(Unspecified organ)
+34598	34600	Lymph node - mediastinal
+34598	34601	Heart
+34598	34602	Pleura - Parietal
+34598	34603	Muscle - Striated - Skeletal - Diaphragm
+34598	34604	Liver
+34598	34605	Adrenal gland
+34598	34606	Kidney
+34598	34607	Lymph node - mesentery
+34598	34608	Pancreas
+34598	34609	Eye
+34598	34610	Body wall
+34598	34611	Mammary gland
+34613	34614	Lung
+34642	34643	Lymph node - mediastinal
+34642	34644	Liver
+34642	34645	Pancreas
+34642	34646	Ovary
+34642	34647	Connective tissue
+34642	34648	Adipose tissue
+34650	34651	Lung
+34661	34662	(Unspecified organ)
+34711	34712	Heart
+34711	34713	Lymph node
+34711	34714	Kidney
+34719	34720	Lymph node
+34721	34722	CNS - Brain - Olfactory bulb
+34726	34727	Lymph node
+34728	34729	CNS - Brain - Olfactory bulb
+34745	34746	Liver
+34793	34794	(Unspecified organ)
+34813	34814	(Unspecified organ)
+34898	34899	Lung
+34898	34900	Liver
+35283	35285	Lung
+35799	35800	Lymph node
+35802	35803	Lymph node
+35955	35956	(Unspecified organ)
+35957	35958	(Unspecified organ)
+35968	35969	(Unspecified organ)
+35973	35974	(Unspecified organ)
+35978	35979	(Unspecified organ)
+35985	35986	(Unspecified organ)
+35989	35990	(Unspecified organ)
+35992	35993	(Unspecified organ)
+35994	35995	(Unspecified organ)
+36031	36032	Lymph node
+36031	36033	Spleen
+36031	36034	Kidney
+36043	36044	Lung
+36045	36046	Lung
+36051	36052	Lung
+36059	36060	Lung
+36155	36156	(Unspecified organ)
+36161	36162	(Unspecified organ)
+36165	36166	(Unspecified organ)
+36170	36171	(Unspecified organ)
+36174	36175	(Unspecified organ)
+36178	36179	Lung
+36178	36180	Lymph node
+36181	36182	Liver
+36181	36183	Lung
+36181	36184	Kidney
+36186	36187	Lung
+36186	36188	Lymph node
+36225	36226	(Unspecified organ)
+36229	36230	(Unspecified organ)
+36231	36232	(Unspecified organ)
+36233	36234	(Unspecified organ)
+36235	36236	(Unspecified organ)
+36238	36239	Lung
+36238	36240	Liver
+36238	36241	Mediastinum
+36355	36356	Lymph node
+36355	36357	Liver
+36355	36358	Lung
+36371	36372	Lung
+36371	36373	Liver
+36371	36374	Adrenal gland
+36371	36375	Lymph node
+36371	36376	Bone
+36378	36379	Lung
+36378	36380	Liver
+36378	36381	Adrenal gland
+36378	36382	Lymph node
+36699	36703	Lung
+36699	36705	Heart
+36700	36704	Lung
+36700	36706	Heart
+37173	37177	Lung
+37194	37195	Lung

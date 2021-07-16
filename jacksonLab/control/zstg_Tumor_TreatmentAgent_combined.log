@@ -1,0 +1,52 @@
+
+SQL*Loader: Release 10.2.0.1.0 - Production on Fri Jul 31 12:56:42 2009
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+Control File:   zstg_Tumor_TreatmentAgent_combined.ctl
+Data File:      /cabio/cabiodb/caMOD/data/TreatmentKey.txt
+  Bad File:     zstg_Tumor_TreatmentAgent_combined.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 5000
+Continuation:    none specified
+Path used:      Direct
+
+Table ZSTG_TUMOR_AGENTNAME_COMBINED, loaded from every logical record.
+Insert option in effect for this table: REPLACE
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+TUMORKEY                            FIRST     *  WHT      CHARACTER            
+AGENTNAME                            NEXT     *  WHT      CHARACTER            
+AGENTTYPE                            NEXT     *  WHT      CHARACTER            
+
+
+Table ZSTG_TUMOR_AGENTNAME_COMBINED:
+  11995 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+Bind array size not used in direct path.
+Column array  rows :    1000
+Stream buffer bytes:  256000
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:         11995
+Total logical records rejected:         0
+Total logical records discarded:        0
+Total stream buffers loaded by SQL*Loader main thread:       12
+Total stream buffers loaded by SQL*Loader load thread:        0
+
+Run began on Fri Jul 31 12:56:42 2009
+Run ended on Fri Jul 31 12:56:42 2009
+
+Elapsed time was:     00:00:00.20
+CPU time was:         00:00:00.02

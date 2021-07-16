@@ -1,0 +1,46 @@
+
+SQL*Loader: Release 10.2.0.1.0 - Production on Tue Aug 11 10:25:58 2009
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+Control File:   MappingAbsTumor.ctl
+Data File:      /cabio/cabiodb/caMOD/data/mtbidsAbsCancer.txt
+  Bad File:     MappingAbsTumor.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 5000
+Continuation:    none specified
+Path used:      Direct
+
+Table ZSTG_MAPPINGABSTUMOR, loaded from every logical record.
+Insert option in effect for this table: TRUNCATE
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+MTBTUMORID                          FIRST     *   |       CHARACTER            
+ABSCANCERMODELID                     NEXT     *   |       CHARACTER            
+NOMENCLATURE_ID                      NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+NAME                                 NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+EXPERIMENT_DESIGN                    NEXT *****   |       CHARACTER            
+  (FILLER FIELD)
+    Maximum field length is 5000000
+AVAILABILITY_ID                      NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+MTBTUMORID_FILLER                    NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAINGENNOTE                        NEXT     *   |       CHARACTER            
+STRAINKEY                            NEXT     *   |       CHARACTER            
+STRAIN                               NEXT     *   |       CHARACTER            
+STRAINTYPES                          NEXT     *   |       CHARACTER            
+TREATMENTTYPES                       NEXT     *   |       CHARACTER            
+TREATMENTAGENTS                      NEXT     *   |       CHARACTER            
+
+SQL*Loader-951: Error calling once/load initialization
+ORA-00942: table or view does not exist
+

@@ -1,0 +1,16 @@
+-- Author Lalitha Viswanathan
+-- Control file for Nomenclature
+LOAD DATA 
+ 
+INFILE '/cabio/cabiodb/caMOD/data/Nomenclature.txt'
+APPEND
+INTO TABLE  NOMENCLATURE
+REENABLE DISABLED_CONSTRAINTS  
+FIELDS TERMINATED BY "|"
+TRAILING NULLCOLS
+(
+  NOMENCLATURE_ID,
+  NAME,
+  ABS_CANCER_MODEL_ID,
+  FILLER_FIELD filler
+)

@@ -1,0 +1,13 @@
+install_driver(Oracle) failed: Can't load '/usr/lib64/perl5/site_perl/5.8.5/x86_64-linux-thread-multi/auto/DBD/Oracle/Oracle.so' for module DBD::Oracle: libclntsh.so.10.1: cannot open shared object file: No such file or directory at /usr/lib64/perl5/5.8.5/x86_64-linux-thread-multi/DynaLoader.pm line 230.
+ at (eval 6) line 3
+Compilation failed in require at (eval 6) line 3.
+Perhaps a required shared library or dll isn't installed where expected
+ at /cabio/cabiodb/caMOD/model/perl/generateAbsCancerModel.pl line 49
+rm: cannot remove `*.bad': No such file or directory
+SQL*Loader-292: ROWS parameter ignored when an XML, LOB or VARRAY column is loaded
+SQL*Loader-951: Error calling once/load initialization
+ORA-00942: table or view does not exist
+SQL*Loader-951: Error calling once/load initialization
+ORA-00942: table or view does not exist
+SQL*Loader-951: Error calling once/load initialization
+ORA-00942: table or view does not exist

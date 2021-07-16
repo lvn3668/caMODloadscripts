@@ -1,0 +1,5 @@
+
+drop index SYS_C0084016;
+drop index INDX_FKBFBBA22C9B29662E;
+
+EXIT;

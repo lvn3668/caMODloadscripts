@@ -1,0 +1,4 @@
+
+drop index SYS_IL0000108706C00005$$;
+
+EXIT;

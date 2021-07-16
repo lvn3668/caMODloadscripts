@@ -1,0 +1,23 @@
+-- Author Lalitha Viswanathan
+-- MTB Cancer Models
+LOAD DATA 
+ 
+INFILE '/cabio/cabiodb/caMOD/data/mtbidsAbsCancer.txt'
+TRUNCATE 
+into table ZSTG_MAPPINGABSTUMOR
+FIELDS TERMINATED BY "|"
+(
+  MTBTUMORID,
+  ABSCANCERMODELID,
+  NOMENCLATURE_ID filler,
+  NAME filler,
+  EXPERIMENT_DESIGN filler char(5000000),
+  AVAILABILITY_ID filler,
+  MTBTUMORID_filler filler,
+  STRAINGENNOTE,
+  STRAINKEY,
+  STRAIN,
+  STRAINTYPES,
+  TREATMENTTYPES,
+  TREATMENTAGENTS
+)

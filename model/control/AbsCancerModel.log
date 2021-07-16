@@ -1,0 +1,113 @@
+
+SQL*Loader: Release 10.2.0.1.0 - Production on Tue Aug 11 10:25:57 2009
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+Control File:   AbsCancerModel.ctl
+Data File:      /cabio/cabiodb/caMOD/data/AbsCancerModel.txt
+  Bad File:     AbsCancerModel.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 5000
+Continuation:    none specified
+Path used:      Direct
+
+Table ABS_CANCER_MODEL, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ABS_CANCER_MODEL_ID                 FIRST     *   |       CHARACTER            
+NOMENCLATURE_ID                      NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+MODEL_DESCRIPTOR                     NEXT     *   |       CHARACTER            
+EXPERIMENT_DESIGN                    NEXT *****   |       CHARACTER            
+    Maximum field length is 5000000
+AVAILABILITY_ID                      NEXT     *   |       CHARACTER            
+SMALLEST_TUMOR_KEY                   NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAINGENNOTE                        NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAINKEY                            NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAIN                               NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAINTYPES                          NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+TREATMENTTYPES                       NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+TREATMENTAGENTS                      NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STATE                                                     CONSTANT
+    Value is 'Edited-approved'
+SUBMITTER_ID                                              CONSTANT
+    Value is '50000000'
+PRINCIPAL_INVESTIGATOR_ID                                 CONSTANT
+    Value is '50000001'
+URL                                                       CONSTANT
+    Value is 'http://tumor.informatics.jax.org'
+IS_TOOL_STRAIN                                            CONSTANT
+    Value is '0'
+PHENOTYPE_ID                                              CONSTANT
+    Value is '50000000'
+STRAIN_ID                                                 CONSTANT
+    Value is '50000000'
+EXTERNAL_SOURCE                                           CONSTANT
+    Value is 'Jax MTB'
+ABS_CANCER_MODEL_TYPE                                     CONSTANT
+    Value is 'AM'
+COMMENTS                                                  CONSTANT
+    Value is 'Date of data retrieval: May 2009'
+
+Table NOMENCLATURE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+ABS_CANCER_MODEL_ID                     1     *   |       CHARACTER            
+NOMENCLATURE_ID                      NEXT     *   |       CHARACTER            
+NAME                                 NEXT     *   |       CHARACTER            
+EXPERIMENT_DESIGN                    NEXT *****   |       CHARACTER            
+  (FILLER FIELD)
+    Maximum field length is 500000
+AVAILABILITY_ID                      NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+SMALLEST_TUMOR_KEY                   NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAINGENNOTE                        NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAINKEY                            NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAIN                               NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+STRAINTYPES                          NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+TREATMENTTYPES                       NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+TREATMENTAGENTS                      NEXT     *   |       CHARACTER            
+  (FILLER FIELD)
+
+SQL*Loader-292: ROWS parameter ignored when an XML, LOB or VARRAY column is loaded
+
+Referential Integrity Constraint/Trigger Information:
+NULL, UNIQUE, and PRIMARY KEY constraints are unaffected.
+
+Constraint ABS_CANCER_MODEL.FKBC9267572175CA75 was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC926757290CE83F was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC9267572D8B96DA was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC9267573D222B55 was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC9267574D19DE94 was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC9267576DC9C38B was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC9267579BE9D993 was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC926757C104A02E was disabled and novalidated before the load.
+Constraint ABS_CANCER_MODEL.FKBC926757D490A9BF was disabled and novalidated before the load.
+Constraint NOMENCLATURE.FK6ECA840B35AE2BF was disabled and novalidated before the load.
+SQL*Loader-951: Error calling once/load initialization
+ORA-00942: table or view does not exist
+

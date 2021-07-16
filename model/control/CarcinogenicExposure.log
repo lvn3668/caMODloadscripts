@@ -1,0 +1,37 @@
+
+SQL*Loader: Release 10.2.0.1.0 - Production on Tue Aug 11 10:25:59 2009
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+Control File:   CarcinogenicExposure.ctl
+Data File:      /cabio/cabiodb/caMOD/data/CarcinogenicExposure.txt
+  Bad File:     CarcinogenicExposure.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 5000
+Continuation:    none specified
+Path used:      Direct
+
+Table CARCINOGEN_EXPOSURE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+CARCINOGEN_EXPOSURE_ID              FIRST     *   |       CHARACTER            
+ABS_CANCER_MODEL_ID                  NEXT     *   |       CHARACTER            
+ENVIRONMENTAL_FACTOR_ID              NEXT     *   |       CHARACTER            
+
+
+Referential Integrity Constraint/Trigger Information:
+NULL, UNIQUE, and PRIMARY KEY constraints are unaffected.
+
+Constraint CARCINOGEN_EXPOSURE.FKDF2E871146872875 was disabled and novalidated before the load.
+Constraint CARCINOGEN_EXPOSURE.FKDF2E871119EF4CF2 was disabled and novalidated before the load.
+Constraint CARCINOGEN_EXPOSURE.FKDF2E87111CC8B88B was disabled and novalidated before the load.
+SQL*Loader-951: Error calling once/load initialization
+ORA-00942: table or view does not exist
+

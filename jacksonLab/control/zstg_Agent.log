@@ -1,0 +1,52 @@
+
+SQL*Loader: Release 10.2.0.1.0 - Production on Fri Jul 31 12:56:37 2009
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+Control File:   zstg_Agent.ctl
+Data File:      /cabio/cabiodb/caMOD/data/AGENT.txt
+  Bad File:     zstg_Agent.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 1
+Errors allowed: 5000
+Continuation:    none specified
+Path used:      Direct
+
+Table ZSTG_AGENT, loaded from every logical record.
+Insert option in effect for this table: REPLACE
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+AGENTKEY                            FIRST     *  WHT      CHARACTER            
+AGENTTYPE                            NEXT     *  WHT      CHARACTER            
+AGENTNAME                            NEXT     *  WHT      CHARACTER            
+
+
+Table ZSTG_AGENT:
+  507 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+Bind array size not used in direct path.
+Column array  rows :    1000
+Stream buffer bytes:  256000
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          1
+Total logical records read:           507
+Total logical records rejected:         0
+Total logical records discarded:        0
+Total stream buffers loaded by SQL*Loader main thread:        1
+Total stream buffers loaded by SQL*Loader load thread:        0
+
+Run began on Fri Jul 31 12:56:37 2009
+Run ended on Fri Jul 31 12:56:38 2009
+
+Elapsed time was:     00:00:00.82
+CPU time was:         00:00:00.01

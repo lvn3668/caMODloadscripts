@@ -1,0 +1,4 @@
+
+create index AVAILLITY_VISIBLE_TO_lwr on AVAILABILITY(lower(VISIBLE_TO)) PARALLEL NOLOGGING tablespace CAMOD;
+
+EXIT;

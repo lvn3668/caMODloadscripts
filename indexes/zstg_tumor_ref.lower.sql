@@ -1,0 +1,5 @@
+
+create index ZSTG__REF_REFKEY_lwr on ZSTG_TUMOR_REF(lower(REFKEY)) PARALLEL NOLOGGING tablespace CAMOD;
+create index ZSTG__REF_TUMORKEY_lwr on ZSTG_TUMOR_REF(lower(TUMORKEY)) PARALLEL NOLOGGING tablespace CAMOD;
+
+EXIT;

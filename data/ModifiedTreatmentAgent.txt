@@ -1,0 +1,169 @@
+32|MoMuLV - Moloney murine leukemia virus
+90|airborne particulate matter
+118|Friend leukemia virus - "regressing"
+71|vinyl chloride
+443|ceramide
+102|butylated hydroxytoluene
+407|N-(4-hydroxyphenyl)retinamide
+200|chenodeoxycholate
+376|Avian leukosis virus encoding human PDGF-B and eGFP
+532|Avian leukosis virus encoding GFP
+16|2-amino-3,4-dimethylmidazole[4,5-f]quinoline
+27|ultraviolet radiation
+233|dexamethasone
+95|5-methylchrysene
+194|2-acetylaminofluorene
+517|electromagnetic near field
+458|1-alpha,25-(OH)<sub>2</sub>-16-ene-19-nor-24-oxo D<sub>3</sub>
+451|rofecoxib
+231|phenobarbitone
+163|N-butyl-N-(4-hydroxybutyl)nitrosamine
+89|benzo[a]pyrene
+175|glycyrrhizin
+31|urethane
+78|1,2-dimethylhydrazine
+93|benzo[b]fluoranthene
+275|1,4-phenylenebis(methylene)selenocyanate
+203|caffeic acid phenethyl ester
+261|epodyl
+138|Cetrorelix acetate
+15|N-methyl-N-nitrosourea
+137|tamoxifen
+431|sulfasalazine
+60|4-o-tolylazo-o-toluidine
+101|environmental tobacco smoke
+459|1 alpha,25-(OH)<sub>2</sub>-D<sub>3</sub>
+432|difluoromethylornithine
+284|Avian leukosis virus encoding G12D K-Ras
+86|4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone
+76|methylcholanthrene
+62|triethylene melamine
+371|(see notes
+289|aflatoxin B1
+139|TNP470
+129|nimesulide
+427|5-aminosalicylic acid, free acid
+186|6-nitrochrysene
+82|normal horse serum
+147|N-diethylnitrosamine
+418|Avian leukosis virus encoding full length human MYC
+280|Avian leukosis virus encoding human CDK4
+228|mainstream cigarette smoke condensate
+236|cyclophosphamide
+268|5-methoxy-7-propylbenz[a]-anthracene
+202|interleukin 10
+14|4-nitroquinoline-1-oxide
+184|1-aminobenzo[a]pyrene
+172|phenobarbital
+49|pregnant mare serum gonadotropin
+178|hydroquinone
+224|environmental cigarette smoke
+285|Avian leukosis virus encoding activated Akt
+223|dimethylnitrosamine
+104|1-nitropyrene
+131|2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine
+181|benzo[a]pyrene trans-7,8-dihydrodiol
+282|Avian leukosis virus encoding human ALPP
+262|dibenz[a,h]anthracene
+154|ferric-nitrilotriacetate
+487|MLV-hShh - Murine Leukemia virus carrying full length human Sonic hedgehog
+126|N-ethyl-N'-nitro-N-nitroguanidine
+479|4-(4-cyclohexyl-2-methyloxazol-5-yl)-2-fluorobenzenesulfonamide
+159|nicardipine hydrochloride
+369|interleukin 12
+509|AAV-FHIT
+279|Avian leukosis virus encoding activated human EGFR
+47|3,4-benzopyrene
+176|1-methyl-1-nitrosourea
+209|FTI-276
+216|alpha-difluoromethylornithine
+117|A-MuLV - Abelson murine leukemia virus
+485|diethylnitrosamine
+195|ultraviolet-B radiation
+538|titanium dioxide
+33|1-ethyl-1-nitrosourea
+63|1,4-dimethanesulfonoxybutane
+428|4-aminosalicylic acid, sodium salt
+7|7,12-dimethylbenz[a]anthracene
+227|mainstream cigarette smoke
+460|2-[2-{2-(1-naphthyl)propanoylamino}phenyl]methylbenzoic acid
+119|Friend leukemia virus - "conventional"
+457|Anti-prostaglandin E<sub>2</sub>
+453|5-aza-2'-deoxycytidine
+180|3-nitrobenzo[a]pyrene
+162|insulin-like growth factor 1 - human recombinant
+179|1-nitrobenzo[a]pyrene
+433|polyethylene glycol 8000
+264|dibenz[a,j]aceanthrylene
+74|pristane
+182|1-nitrobenzo[a]pyrene trans-7,8-dihydrodiol
+103|vinyl carbamate
+232|N-nitrosodimethylamine
+10|20-methylcholanthrene
+477|6-[2S,3S)-3-(4-chloro-2-methylphenylsulfonyl-aminomethyl)-bicyclo[2.2.2]octan-2-yl]-5Z-hexenoic acid
+423|N-nitrosomethylbenzylamine
+189|2,3,7,8-tetrachorodibenzo-p-dioxin
+91|dibenzo[a,l]pyrene
+263|7H-dibenzo[c,g]carbazole
+266|8-methylbenzo[c]phenanthrene
+167|retinoic acid
+107|benzotrichloride
+438|N-[4-(3-chloro-4-fluoro-phenylamino)-quinazolin-6-yl]acrylamide
+474|docosahexaenoic acid
+77|N-ethyl-N-nitrosourea
+419|Avian leukosis virus encoding full length chicken Sonic hedgehog
+214|methylene chloride
+508|Ad-FHIT
+422|Avian leukosis virus encoding PDGF
+123|horse anti-mouse anitlymphocyte serum
+50|human chorionic gonadotropin
+406|2-difluoromethylornithine
+258|diepoxybutane
+52|dehydroepiandrosterone
+482|vaccine - anti-CEA vaccine
+173|piperonyl butoxide (alpha-[2
+56|12-O-tetradecanoylphorbol-13-acetate
+229|N-acetylcysteine
+45|nitrogen mustard
+449|methylazoxy-methyl acetate
+54|dihydrotestosterone
+237|melphalan
+70|3-methylcholanthrene
+166|phorbol 12-myristate 13-acetate
+375|MuLV - murine leukemia virus
+30|9,10-dimethyl-1,2-benzanthracene
+141|batimastat
+222|2-amino-3-methylimidazo[4,5-f]quinoline
+128|azoxymethane
+28|N-nitroso-N-methylurethane
+156|curcumin
+283|Avian leukosis virus encoding polyoma virus middle T antigen
+381|4-hydroxytamoxifen
+59|diethylstilbestrol
+215|tetrachloroethylene
+254|thioTEPA
+450|Avian leukosis virus encoding either full length chicken Sonic hedgehog (RCAS-Shh) or RCAS-Shh plus full length human c-Myc
+177|1,1-dimethylhydrazine
+155|nordihydroguairetic acid
+130|dextran sulfate sodium
+239|benzalpurine mustard
+122|beta-naphthoflavone
+267|7-methylbenzo[a]pyrene
+143|dimethylbenzanthracene
+158|N-amyl-N-methylnitrosoamine
+269|benz[a]anthracene
+281|Avian leukosis virus encoding mouse Fgf2
+219|acetylsalicylic acid
+105|dimethyl sulfoxide
+473|2-(acetyloxy)benzoic acid 4
+185|3-aminobenzo[a]pyrene
+3|17beta-estradiol
+94|cyclopental[c,d]pyrene
+213|A-MuLV-P90A
+183|3-nitrobenzo[a]pyrene trans-7,8-dihydrodiol
+390|diethylhexylphthalate
+439|16,16-dimethyl-prostaglandin E2
+265|dibenz[a,h]acridine
+132|R-flurbiprofen
+171|sn-1,2-didecanoylglycerol
+242|hydroquinone mustard

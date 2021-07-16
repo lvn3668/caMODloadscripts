@@ -1,0 +1,5 @@
+
+create index ORGANRGAN_CONCEPT_CO_lwr on ORGAN(lower(CONCEPT_CODE)) PARALLEL NOLOGGING tablespace CAMOD;
+create index ORGANRGAN_NAME_lwr on ORGAN(lower(NAME)) PARALLEL NOLOGGING tablespace CAMOD;
+
+EXIT;

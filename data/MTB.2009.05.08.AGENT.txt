@@ -1,0 +1,508 @@
+AGENTKEY	AGENTTYPE	AGENTNAME
+1	Radiation	X-radiation
+2	Hormone	pituitary isograft
+3	Hormone	17beta-estradiol (E2)
+6	Virus	MMTV - mouse mammary tumor virus
+7	Chemical/Drug	7,12-dimethylbenz[a]anthracene (DMBA)
+8	Radiation	gamma-radiation
+9	Hormone	estrogen
+10	Chemical/Drug	20-methylcholanthrene (MCA)
+11	Hormone	bovine pituitary extract
+12	Chemical/Drug	isoprene
+13	Chemical/Drug	1,3-butadiene
+14	Chemical/Drug	4-nitroquinoline-1-oxide (4NQO)
+15	Chemical/Drug	N-methyl-N-nitrosourea (MNU)
+16	Chemical/Drug	2-amino-3,4-dimethylmidazole[4,5-f]quinoline (MelQ)
+17	Chemical/Drug	catechol
+23	Hormone	estradiol benzoate
+26	Hormone	progesterone
+27	Radiation	ultraviolet radiation (UV)
+28	Chemical/Drug	N-nitroso-N-methylurethane (NMU)
+29	Chemical/Drug	1,2-dimethylhydrazine-di-HCl (DMH)
+30	Chemical/Drug	9,10-dimethyl-1,2-benzanthracene (DMBA)
+31	Chemical/Drug	urethane (ethyl carbamate)
+32	Virus	MoMuLV - Moloney murine leukemia virus (M-MuLV)
+33	Chemical/Drug	1-ethyl-1-nitrosourea (ENU)
+34	Chemical/Drug	ethyl methanesulfonate (EMS)
+35	Chemical/Drug	2,6-diaminopurine
+36	Chemical/Drug	2-fluoroadenine
+37	Chemical/Drug	6-thioguanine
+38	Virus	NIV - nodule-inducing virus
+39	Chemical/Drug	o-aminoazotoluene
+40	Chemical/Drug	chloroform
+41	Chemical/Drug	thiouracil
+42	Radiation	Iodine-131
+44	Chemical/Drug	triphenylethylene
+45	Chemical/Drug	nitrogen mustard (HN2)
+46	Chemical/Drug	sulfur mustard (B,B'-dichlorodiethylsulfide)
+47	Chemical/Drug	3,4-benzopyrene (benzo[a]pyrene)
+48	Hormone	ovarian implantation
+49	Hormone	pregnant mare serum gonadotropin (PMSG)
+50	Hormone	human chorionic gonadotropin (hCG)
+52	Hormone	dehydroepiandrosterone (DHEA)
+53	Hormone	testosterone
+54	Hormone	dihydrotestosterone (DHT)
+55	Hormone	androsterone
+56	Chemical/Drug	12-O-tetradecanoylphorbol-13-acetate (TPA)
+59	Hormone	diethylstilbestrol (DES)
+60	Chemical/Drug	4-o-tolylazo-o-toluidine (2-amino-5-azotoluene)
+61	Hormone	19-nor-progesterone
+62	Chemical/Drug	triethylene melamine (TEM)
+63	Chemical/Drug	1,4-dimethanesulfonoxybutane (myleran)
+64	Hormone	male gonadal ridge implantation
+65	Radiation	ionizing radiation
+66	Hormone	cortisone
+67	Virus	vaccinia virus
+68	Virus	vaccinia virus - inactivated
+70	Chemical/Drug	3-methylcholanthrene (MCA)
+71	Chemical/Drug	vinyl chloride (chloroethylene)
+72	Other	thymectomy
+73	Chemical/Drug	mineral oil
+74	Chemical/Drug	pristane (2,6,10,14-tetramethylpentadecane)
+76	Chemical/Drug	methylcholanthrene (MCA)
+77	Chemical/Drug	N-ethyl-N-nitrosourea (N-nitrosoethylurea) (ENU)
+78	Chemical/Drug	1,2-dimethylhydrazine (DMH)
+79	Radiation	radiation - unspecified type
+80	Virus	Gross leukemia virus
+81	Chemical/Drug	streptozotocin
+82	Hormone	normal horse serum (NHS)
+83	Hormone	estrone
+84	Chemical/Drug	4-nitroquinoline-N-oxide
+86	Chemical/Drug	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK)
+87	Chemical/Drug	propylene glycol
+88	Chemical/Drug	corn oil
+89	Chemical/Drug	benzo[a]pyrene (BP) (BaP) (B[a]P)
+90	Chemical/Drug	airborne particulate matter (APM)
+91	Chemical/Drug	dibenzo[a,l]pyrene (DB[a,l]P)
+92	Chemical/Drug	tricaprylin
+93	Chemical/Drug	benzo[b]fluoranthene (B[b]F)
+94	Chemical/Drug	cyclopental[c,d]pyrene (CPP)
+95	Chemical/Drug	5-methylchrysene (5-MeC)
+96	Chemical/Drug	theaflavins
+97	Radiation	neutron-radiation
+98	Chemical/Drug	black tea
+99	Radiation	radon
+100	Radiation	uranium ore dust
+101	Chemical/Drug	environmental tobacco smoke (ETS)
+102	Chemical/Drug	butylated hydroxytoluene (BHT)
+103	Chemical/Drug	vinyl carbamate (VC)
+104	Chemical/Drug	1-nitropyrene (1-NP)
+105	Chemical/Drug	dimethyl sulfoxide (DMSO)
+106	Chemical/Drug	crocidolite asbestos
+107	Chemical/Drug	benzotrichloride (BTC)
+108	Chemical/Drug	carbon disulfide
+109	Chemical/Drug	1,2-dibromoethane
+110	Chemical/Drug	ethylene oxide
+111	Chemical/Drug	naphthalene
+112	Chemical/Drug	nitrogen dioxide
+114	Chemical/Drug	silica
+115	Chemical/Drug	nickel subsulfide
+116	Other	splenectomy
+117	Virus	A-MuLV - Abelson murine leukemia virus (A-MuLV-P160)
+118	Virus	Friend leukemia virus - "regressing" (RFV)
+119	Virus	Friend leukemia virus - "conventional" (CFV)
+120	Hormone	adrenalectomy
+121	Chemical/Drug	ether
+122	Chemical/Drug	beta-naphthoflavone (betaNF)
+123	Hormone	horse anti-mouse anitlymphocyte serum (HALS)
+124	Chemical/Drug	benzene
+125	Chemical/Drug	croton oil
+126	Chemical/Drug	N-ethyl-N'-nitro-N-nitroguanidine (ENNG)
+127	Chemical/Drug	rebamipide
+128	Chemical/Drug	azoxymethane (AOM)
+129	Chemical/Drug	nimesulide (4-nitro-2-phenoxymethanesulfonanilide)
+130	Chemical/Drug	dextran sulfate sodium (DSS)
+131	Chemical/Drug	2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP)
+132	Chemical/Drug	R-flurbiprofen (R-FB) (E-7869)
+133	Chemical/Drug	sulindac sulfide
+134	Chemical/Drug	sulindac sulfone
+135	Radiation	heavy ion radiation
+137	Chemical/Drug	tamoxifen (TAM)
+138	Chemical/Drug	Cetrorelix acetate (SB-75)
+139	Chemical/Drug	TNP470 (AGM-1470)
+140	Chemical/Drug	angiostatin
+141	Chemical/Drug	batimastat (BB-94)
+142	Chemical/Drug	endostatin
+143	Chemical/Drug	dimethylbenzanthracene (DMBA)
+144	Virus	BALB/Tennant leukemia virus
+145	Virus	Friend leukemia virus
+146	Hormone	estradiol dipropionate
+147	Chemical/Drug	N-diethylnitrosamine (N,N-diethylnitrosamine) (N-nitrosodiethylamine) (NDEA) (diethylnitrosamine) (DEN)
+148	Chemical/Drug	cisplatin
+149	Virus	Graffi MuLV - Graffi murine leukemia virus
+150	Virus	R7 - MoMuSV 124 variant
+151	Virus	MoMuLV-TB - Moloney murine leukemia virus, TB strain
+152	Virus	murine retrovirus containing human PDGFB cDNA
+153	Other	mechanical stimulation
+154	Chemical/Drug	ferric-nitrilotriacetate (Fe-NTA)
+155	Chemical/Drug	nordihydroguairetic acid (NDGA)
+156	Chemical/Drug	curcumin (diferuloylmethane)
+157	Chemical/Drug	N-ethyl-N'-nitro-N-nitrosoguanidine
+158	Chemical/Drug	N-amyl-N-methylnitrosoamine (AMN)
+159	Chemical/Drug	nicardipine hydrochloride (Nicardipine)
+160	Other	gastrectomy with esophagojejunostomy
+161	Chemical/Drug	p-cresidine
+162	Growth Factor	insulin-like growth factor 1 - human recombinant (IGF-1)
+163	Chemical/Drug	N-butyl-N-(4-hydroxybutyl)nitrosamine (BBN)
+164	Chemical/Drug	ZnSO4
+165	Chemical/Drug	ZnCl2
+166	Chemical/Drug	phorbol 12-myristate 13-acetate (phorbol ester) (PMA)
+167	Chemical/Drug	retinoic acid (RA)
+168	Other	wounding
+169	Chemical/Drug	acetone
+170	Chemical/Drug	diacylglycerol (DAG)
+171	Chemical/Drug	sn-1,2-didecanoylglycerol (DiC10)
+172	Chemical/Drug	phenobarbital (PB)
+173	Chemical/Drug	piperonyl butoxide (alpha-[2-(2-butoxyethoxy)ethoxy-4,5-methylenedioxy-2-propyltoluene)
+174	Radiation	Californium-252
+175	Chemical/Drug	glycyrrhizin (GL)
+176	Chemical/Drug	1-methyl-1-nitrosourea (MNU)
+177	Chemical/Drug	1,1-dimethylhydrazine (UDMH)
+178	Chemical/Drug	hydroquinone (HQ)
+179	Chemical/Drug	1-nitrobenzo[a]pyrene (1-NBaP)
+180	Chemical/Drug	3-nitrobenzo[a]pyrene (3-NBaP)
+181	Chemical/Drug	benzo[a]pyrene trans-7,8-dihydrodiol (BaP trans-7,8-dihydrodiol)
+182	Chemical/Drug	1-nitrobenzo[a]pyrene trans-7,8-dihydrodiol (1-NBaP trans-7,8-dihydrodiol)
+183	Chemical/Drug	3-nitrobenzo[a]pyrene trans-7,8-dihydrodiol (3-NBaP trans-7,8-dihydrodiol)
+184	Chemical/Drug	1-aminobenzo[a]pyrene (1-ABaP)
+185	Chemical/Drug	3-aminobenzo[a]pyrene (3-ABaP)
+186	Chemical/Drug	6-nitrochrysene (6-NC)
+187	Chemical/Drug	WY-14,643
+188	Chemical/Drug	chlordane
+189	Chemical/Drug	2,3,7,8-tetrachorodibenzo-p-dioxin (TCDD)
+190	Radiation	Strontium-90
+191	Radiation	Radium-226
+192	Radiation	Plutonium-239
+193	Radiation	Radium-224
+194	Chemical/Drug	2-acetylaminofluorene (AAF)
+195	Radiation	ultraviolet-B radiation (UVB)
+196	Chemical/Drug	troglitazone
+197	Virus	Adenovirus - recombinant, expressing Cre recombinase
+198	Virus	Adenovirus - recombinant, expressing LacZ
+199	Chemical/Drug	kojic acid
+200	Chemical/Drug	chenodeoxycholate (chenodeoxycholic acid)
+201	Antibody	anti-IFNgamma monoclonal antibody
+202	Growth Factor	interleukin 10 (IL-10)
+203	Chemical/Drug	caffeic acid phenethyl ester (CAPE)
+204	Chemical/Drug	quercetin
+205	Chemical/Drug	rutin
+206	Other	vaccine - irradiated TRAMP-C1/C2 cells
+207	Other	vaccine - irradiated GMTRAMP-C1/C2 cells
+208	Antibody	anti-CTLA-4 antibody
+209	Chemical/Drug	FTI-276 (farnesyltransferase inhibitor 276)
+210	Chemical/Drug	budesonide
+211	Chemical/Drug	myo-inositol
+212	Chemical/Drug	beclomethasone dipropionate
+213	Virus	A-MuLV-P90A (C-terminally truncated Abelson murine leukemia virus)
+214	Chemical/Drug	methylene chloride (MC)
+215	Chemical/Drug	tetrachloroethylene (TCE)
+216	Chemical/Drug	alpha-difluoromethylornithine (DFMO)
+217	Other	peptide Lys-Glu
+218	Other	peptide Ala-Glu-Asp-Gly
+219	Chemical/Drug	acetylsalicylic acid (ASA) (aspirin)
+220	Chemical/Drug	acetaminophen
+221	Chemical/Drug	NS-398
+222	Chemical/Drug	2-amino-3-methylimidazo[4,5-f]quinoline (IQ)
+223	Chemical/Drug	dimethylnitrosamine (DMN)
+224	Chemical/Drug	environmental cigarette smoke (ECS)
+225	Radiation	halogen light
+226	Chemical/Drug	Aroclor 1254
+227	Chemical/Drug	mainstream cigarette smoke (MCS)
+228	Chemical/Drug	mainstream cigarette smoke condensate (MCSC)
+229	Chemical/Drug	N-acetylcysteine (NAC)
+231	Chemical/Drug	phenobarbitone (PB)
+232	Chemical/Drug	N-nitrosodimethylamine (NDMA)
+233	Chemical/Drug	dexamethasone (DEX)
+234	Chemical/Drug	uracil mustard
+235	Chemical/Drug	mannitol mustard
+236	Chemical/Drug	cyclophosphamide (Cytoxan)
+237	Chemical/Drug	melphalan (L-phenylalanine mustard) (L-sarcolysin)
+238	Chemical/Drug	chlorambucil mustard
+239	Chemical/Drug	benzalpurine mustard (Elderfield purine mustard)
+240	Chemical/Drug	naphthylamine mustard
+241	Chemical/Drug	aniline mustard
+242	Chemical/Drug	hydroquinone mustard (Weatherbee mustard)
+243	Chemical/Drug	benzimidazole mustard
+244	Chemical/Drug	chloroquine mustard
+245	Chemical/Drug	chloroquine mustard pamoate
+246	Chemical/Drug	5-chloroquine mustard
+247	Chemical/Drug	5-chloroquine mustard pamoate
+248	Chemical/Drug	quinacrine ethyl mustard/2
+249	Chemical/Drug	quinacrine ethyl mustard
+250	Chemical/Drug	quinacrine propyl mustard/2
+251	Chemical/Drug	quinacrine propyl mustard
+252	Chemical/Drug	quinacrine mustard
+253	Chemical/Drug	OPSPA
+254	Chemical/Drug	thioTEPA (thio-TEPA) (TESPA)
+255	Chemical/Drug	aziridyl benzoquinone
+256	Chemical/Drug	mannitol myleran
+257	Chemical/Drug	chloroethylmesulfan
+258	Chemical/Drug	diepoxybutane (L-butadiene epoxide)
+259	Chemical/Drug	diepoxypiperazine
+260	Chemical/Drug	epoxypropidine
+261	Chemical/Drug	epodyl (diglycidyltriethylene glycol)
+262	Chemical/Drug	dibenz[a,h]anthracene (1,2,5,6-dibenzanthracene)
+263	Chemical/Drug	7H-dibenzo[c,g]carbazole (3,4,5,6-dibenzocarbazole) (DBC)
+264	Chemical/Drug	dibenz[a,j]aceanthrylene (15,16-benzdehydrocholanthrene)
+265	Chemical/Drug	dibenz[a,h]acridine (1,2,5,6-dibenzacridine)
+266	Chemical/Drug	8-methylbenzo[c]phenanthrene (2-methyl-3,4-benzophenanthrene)
+267	Chemical/Drug	7-methylbenzo[a]pyrene (4'-methyl-3,4-benzopyrene)
+268	Chemical/Drug	5-methoxy-7-propylbenz[a]-anthracene (3-methoxy-10-propyl-1,2-benzanthracene)
+269	Chemical/Drug	benz[a]anthracene (1,2-benzanthracene)
+270	Chemical/Drug	hydrazine sulfate
+271	Chemical/Drug	N-isopropyl-a-(2-methylhyrazino)-p-toluamide hydrochloride
+272	Chemical/Drug	chromium(III) chloride
+273	Chemical/Drug	piroxicam
+274	Chemical/Drug	green tea
+275	Chemical/Drug	1,4-phenylenebis(methylene)selenocyanate (p-XSC)
+276	Chemical/Drug	dacarbazine
+277	Chemical/Drug	lyophilized strawberries
+278	Chemical/Drug	urban air pollution
+279	Virus	Avian leukosis virus encoding activated human EGFR (RCAS-EGFR*)
+280	Virus	Avian leukosis virus encoding human CDK4 (RCAS-cdk4)
+281	Virus	Avian leukosis virus encoding mouse Fgf2 (RCAS-bFGF)
+282	Virus	Avian leukosis virus encoding human ALPP (RCAS-AP)
+283	Virus	Avian leukosis virus encoding polyoma virus middle T antigen (RCAS-MTA) (RCAS-PyMT)
+284	Virus	Avian leukosis virus encoding G12D K-Ras (RCAS-Kras)
+285	Virus	Avian leukosis virus encoding activated Akt (RCAS-Akt)
+286	Chemical/Drug	black tea - decaffeinated
+287	Chemical/Drug	green tea - decaffeinated
+288	Chemical/Drug	N-hydroxy-2-acetylaminofluorene
+289	Chemical/Drug	aflatoxin B1 (AFB<sub>1</sub>)
+290	Chemical/Drug	DDT
+291	Chemical/Drug	estradiol mustard
+292	Chemical/Drug	beta-deoxythioguanosine
+293	Chemical/Drug	isophosphamide
+294	Chemical/Drug	1-propanol-3,3'-imino dimethanesulfonate
+295	Chemical/Drug	phenesterin
+296	Chemical/Drug	imidazole mustard
+297	Chemical/Drug	aminopterin
+298	Chemical/Drug	Adriamycin
+299	Chemical/Drug	potassium arsenite
+300	Chemical/Drug	emetine
+301	Chemical/Drug	stilbamidine
+302	Chemical/Drug	phenazopyridine
+303	Chemical/Drug	phenformin
+304	Chemical/Drug	acronycine
+305	Chemical/Drug	tolbutamide
+306	Chemical/Drug	cigarette smoke
+307	Chemical/Drug	N-hydroxyethyl carbamate
+308	Chemical/Drug	allyl carbamate
+309	Chemical/Drug	N-cyanoacetylethyl carbamate
+310	Chemical/Drug	N-acetylethyl carbamate
+311	Chemical/Drug	isopropyl carbamate
+312	Chemical/Drug	N-methylnaphthyl carbamate
+313	Chemical/Drug	propyl carbamate
+314	Chemical/Drug	N,N-dimethylolmethoxyethyl carbamate
+315	Chemical/Drug	diethyl bicarbamate
+316	Chemical/Drug	sec-butyl carbamate
+317	Chemical/Drug	hexyl carbamate
+318	Chemical/Drug	N-phenylisopropyl carbamate
+319	Chemical/Drug	benzyl carbamate
+320	Chemical/Drug	phenyl carbamate
+321	Chemical/Drug	beta-chloroethyl carbamate
+322	Chemical/Drug	beta-hydroxypropyl carbamate
+323	Chemical/Drug	butyl carbamate
+324	Chemical/Drug	methallyl carbamate
+325	Chemical/Drug	beta-hydroxyethyl carbamate
+326	Chemical/Drug	methyl carbamate
+327	Chemical/Drug	3,4-dichlorophenyl-N-carbamoyl aziridine
+328	Chemical/Drug	m-chlorophenyl-N-carbamoyl aziridine
+329	Chemical/Drug	phenyl-N-carbamoyl aziridine
+330	Chemical/Drug	cyclohexyl-N-carbamoyl aziridine
+331	Chemical/Drug	p-methoxyphenyl-N-carbamoyl aziridine
+332	Chemical/Drug	p-tolyl-N-carbamoyl aziridine
+333	Chemical/Drug	o-ethoxyphenyl-N-carbamoyl aziridine
+334	Chemical/Drug	p-fluorophenyl-N-carbamoyl aziridine
+335	Chemical/Drug	trichloroethyl carbamate
+336	Chemical/Drug	isoamyl carbamate
+337	Chemical/Drug	chloroethyl carbamate
+338	Chemical/Drug	N-methylurethane
+339	Chemical/Drug	N-dimethylurethane
+340	Chemical/Drug	N-ethylurethane
+341	Chemical/Drug	N-diethylurethane
+342	Chemical/Drug	N-propylurethane
+343	Chemical/Drug	N-dipropylurethane
+344	Chemical/Drug	N-isopropylurethane
+345	Chemical/Drug	N-disopropylurethane
+346	Chemical/Drug	N-butylurethane
+347	Chemical/Drug	N-dibutylurethane
+348	Chemical/Drug	N-diphenylurethane
+349	Chemical/Drug	methylene diurethane
+350	Chemical/Drug	ethylene diurethane
+351	Chemical/Drug	ethylidene diurethane
+352	Chemical/Drug	isoniazid
+353	Chemical/Drug	isonicotinic acid
+354	Chemical/Drug	iproniazid
+355	Chemical/Drug	phenylhydrazine
+356	Chemical/Drug	benzoylhydrazine
+357	Chemical/Drug	2-methoxybenzoylhydrazine
+358	Chemical/Drug	4-methoxybenzoylhydrazine
+359	Chemical/Drug	dibutylnitrosamine
+360	Chemical/Drug	nitrosopiperidine
+361	Chemical/Drug	N-acetyl-S-carbethoxycysteine
+362	Chemical/Drug	S-carbamylcysteine
+363	Chemical/Drug	S-carbobenzyloxycysteine
+364	Chemical/Drug	sulindac
+365	Chemical/Drug	aspirin - non-buffered
+366	Chemical/Drug	aspirin - buffered
+367	Chemical/Drug	Taxol
+368	Chemical/Drug	doxycycline
+369	Growth Factor	interleukin 12 (IL-12)
+370	Antibody	anti-CD8+ monoclonal antibody
+371	Not Specified	(see notes)
+372	Radiation	Uranium-233
+373	Radiation	Americum-241
+375	Virus	MuLV - murine leukemia virus (MLV)
+376	Virus	Avian leukosis virus encoding human PDGF-B and eGFP (RCAS-PBIG)
+377	Virus	Avian leukosis virus encoding human PDGF-B (RCAS-PB)
+378	Chemical/Drug	SU5416
+379	Chemical/Drug	R94138
+380	Chemical/Drug	polyI/polyC
+381	Chemical/Drug	4-hydroxytamoxifen (4-OHT)
+383	Chemical/Drug	phenacetin
+384	Chemical/Drug	Cyclosporin A
+385	Chemical/Drug	methapyrilene
+386	Chemical/Drug	reserpine
+387	Chemical/Drug	clofibrate
+388	Chemical/Drug	chlorpromazine
+389	Chemical/Drug	metaproterenol
+390	Chemical/Drug	diethylhexylphthalate (DEHP)
+391	Chemical/Drug	haloperidol
+392	Chemical/Drug	sulfamethoxazole
+393	Chemical/Drug	ampicillin
+394	Chemical/Drug	sulfisoxazole
+395	Chemical/Drug	1,4-dioxane
+396	Chemical/Drug	ethylene thiourea
+397	Chemical/Drug	cholestyramine
+398	Chemical/Drug	glycidol
+400	Chemical/Drug	sodium arsenite 
+401	Virus	Adenovirus - parent virus
+402	Virus	Adenovirus - beta-galactosidase expressing
+403	Virus	Adenovirus - expressing dominant-negative mutant Map2k4
+404	Chemical/Drug	saline
+406	Chemical/Drug	2-difluoromethylornithine (DFMO)
+407	Chemical/Drug	N-(4-hydroxyphenyl)retinamide (4HPR)
+408	Chemical/Drug	tocopherol acetate
+409	Chemical/Drug	selenomethionine
+410	Chemical/Drug	9-cis-retinoic acid
+412	Chemical/Drug	vehicle - unspecified
+413	Chemical/Drug	lovastatin
+414	Bacteria	helicobacter felis
+415	Chemical/Drug	letrozole
+418	Virus	Avian leukosis virus encoding full length human MYC (RCAS-MYC)
+419	Virus	Avian leukosis virus encoding full length chicken Sonic hedgehog (RCAS-Shh)
+420	Chemical/Drug	FTI L-744,832
+421	Chemical/Drug	AG-1478
+422	Virus	Avian leukosis virus encoding PDGF (RCAS-PDGF)
+423	Chemical/Drug	N-nitrosomethylbenzylamine (NMBA)
+424	Chemical/Drug	sphingomyelin
+427	Chemical/Drug	5-aminosalicylic acid, free acid (5-ASA)
+428	Chemical/Drug	4-aminosalicylic acid, sodium salt (4-ASA)
+429	Chemical/Drug	Pentasa
+431	Chemical/Drug	sulfasalazine (SASP)
+432	Chemical/Drug	difluoromethylornithine (DFMO)
+433	Chemical/Drug	polyethylene glycol 8000 (PEG 8000)
+434	Signaling molecule	uroguanylin
+435	Chemical/Drug	polyethylene glycol
+437	Chemical/Drug	celecoxib
+438	Chemical/Drug	N-[4-(3-chloro-4-fluoro-phenylamino)-quinazolin-6-yl]acrylamide (CFPQA)
+439	Chemical/Drug	16,16-dimethyl-prostaglandin E2 (16,16dmPGE2)
+440	Chemical/Drug	folate
+441	Chemical/Drug	(+)-catechin
+442	Chemical/Drug	MF-tricyclic
+443	Chemical/Drug	ceramide (N-palmitoylsphingosine)
+444	Chemical/Drug	sphingolipid mix
+445	Chemical/Drug	omeprazole
+446	Other	rat Gastrimmune
+447	Chemical/Drug	aminoguanidine hemisulfate
+449	Chemical/Drug	methylazoxy-methyl acetate (MAMAc)
+450	Virus	Avian leukosis virus encoding either full length chicken Sonic hedgehog (RCAS-Shh) or RCAS-Shh plus full length human c-Myc (RCAS-MYC)
+451	Chemical/Drug	rofecoxib (refecoxib) (Vioxx)
+452	Bacteria	intestinal flora
+453	Chemical/Drug	5-aza-2'-deoxycytidine (5-aza-dC)
+455	Chemical/Drug	17-phenyl-trinor-prostaglandin E2
+457	Antibody	Anti-prostaglandin E<sub>2</sub> (PGE<sub>2</sub>monoclonal antibody 2B5)
+458	Chemical/Drug	1-alpha,25-(OH)<sub>2</sub>-16-ene-19-nor-24-oxo D<sub>3</sub> (Ro 26-9114)
+459	Chemical/Drug	1 alpha,25-(OH)<sub>2</sub>-D<sub>3</sub> (Vitamin D<sub>3</sub>)
+460	Chemical/Drug	2-[2-{2-(1-naphthyl)propanoylamino}phenyl]methylbenzoic acid (ONO-AE2-227)
+461	Chemical/Drug	sodium sulfate
+463	Chemical/Drug	2-butoxyethanol
+464	Chemical/Drug	2-butoxyacetic acid
+465	Chemical/Drug	A-177430, MMP inhibitor
+466	Chemical/Drug	A-285969, Cox-2 inhibitor
+467	Chemical/Drug	GW501516, PPAR-delta agonist
+468	Chemical/Drug	BRL-49,653, PPAR gamma ligand
+469	Chemical/Drug	NID525, PPAR gamma agonist
+470	Chemical/Drug	pioglitazone
+471	Chemical/Drug	rosiglitazone
+472	Chemical/Drug	resveratrol
+473	Chemical/Drug	2-(acetyloxy)benzoic acid 4-(nitrooxy methyl)phenyl ester) (NO-ASA)
+474	Chemical/Drug	docosahexaenoic acid (DHA)
+476	Chemical/Drug	indomethacin
+477	Chemical/Drug	6-[2S,3S)-3-(4-chloro-2-methylphenylsulfonyl-aminomethyl)-bicyclo[2.2.2]octan-2-yl]-5Z-hexenoic acid (ONO-8711)
+479	Chemical/Drug	4-(4-cyclohexyl-2-methyloxazol-5-yl)-2-fluorobenzenesulfonamide (JTE-522)
+481	Other	vaccine - sonicated H felis + cholera toxin
+482	Other	vaccine - anti-CEA vaccine (rV-CEA-TRICOM)
+483	Chemical/Drug	propylthiouracil
+484	Other	thymus implantation
+485	Chemical/Drug	diethylnitrosamine (DEN)
+487	Virus	MLV-hShh - Murine Leukemia virus carrying full length human Sonic hedgehog (MuLV-hShh)
+488	Chemical/Drug	d-limonene
+489	Chemical/Drug	A-79175
+490	Chemical/Drug	naproxen
+492	Transposon	Sleeping Beauty transposon encoding V12Nras
+493	Transposon	Sleeping Beauty transposon encoding V12A38Nras
+494	Transposon	Sleeping Beauty transposon encoding V12S35Nras
+495	Transposon	Sleeping Beauty transposon encoding V12G37Nras
+496	Plasmid	transposase containing plasmid pPGK-SB13.
+497	Plasmid	control plasmid pPGK
+498	Transposon	firefly luciferase
+499	Hormone	fetal gonadal ridge implantation
+500	Chemical/Drug	zoledronic acid
+501	Chemical/Drug	Hh-Antag691
+502	Chemical/Drug	40-O-(2-hydroxyethyl)-rapamycin
+503	Hormone	castration
+504	Chemical/Drug	8 oxazepam
+505	Chemical/Drug	anthraquinone
+506	Chemical/Drug	N-nitrosobis(2-hydroxypropyl)amine
+507	Chemical/Drug	dibenzoylmethane
+508	Virus	Ad-FHIT (adenoviral vector carrying the human FHIT gene)
+509	Virus	AAV-FHIT (adenoassociated virus vector carrying the human FHIT gene)
+511	Virus	Moloney Murine Leukemia Virus (MoMuLV) containing Pdgfb
+512	Virus	Moloney Murine Leukemia helper virus
+513	Chemical/Drug	dichloroacetic acid
+514	Chemical/Drug	trichloroacetic acid
+515	Virus	Adenovirus carrying the RET DeltaTK mutant
+516	Virus	Adenovirus carrying green flourescent protein
+517	Other	electromagnetic near field (EMF)
+518	Chemical/Drug	gefitinib
+519	Hormone	daidzein
+520	Hormone	genistein
+521	Chemical/Drug	ethylnitrosourea
+523	Chemical/Drug	medroxyprogesterone actetate
+524	Chemical/Drug	carboplatin
+525	Chemical/Drug	sesame oil
+526	Chemical/Drug	alstonia scholaris
+527	Chemical/Drug	Riddelliine
+528	Other	constant light
+529	Chemical/Drug	N-bis(2-hydroxypropyl)nitrosamine
+530	Virus	Adenovirus carrying cre recombinase
+531	Chemical/Drug	Elmiron
+532	Virus	Avian leukosis virus encoding GFP (RCAS-GFP)
+533	Chemical/Drug	vincristine
+534	Chemical/Drug	etoposide
+535	Other	(h)hspE7
+536	Other	E7
+537	Other	hsp65
+538	Chemical/Drug	titanium dioxide (TiO2)
+539	Hormone	estradiol
+540	Chemical/Drug	erlotinib
+541	Hormone	ovariectomy
+542	Virus	Adenovirus - recombinant, expressing Jaagsiekte sheep retrovirus envelope protein
+543	Virus	Adenovirus - recombinant, expressing human alkaline phosphatase
+544	Chemical/Drug	LY294002
+545	Chemical/Drug	metformin
+546	Chemical/Drug	A-769662
+547	Chemical/Drug	tempol
+548	Radiation	Thorium-227

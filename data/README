@@ -1,0 +1,100 @@
+1. Raw data from MTB
+
+MTB.2008.02.27.AGENT.txt
+MTB.2008.02.27.METASTASES.txt
+MTB.2008.02.27.REFERENCE.txt
+MTB.2008.02.27.TUMOR_AGENT.txt
+MTB.2008.02.27.TUMOR_REF.txt
+MTB.2008.02.27.TUMOR.txt
+
+2. SQL Loader Control files to load these datasets 
+Agent.ctl : Loads into ZSTG_AGENT  
+Metastases.ctl  : Loads into ZSTG_METASTASES
+Reference.ctl : Loads into ZSTG_REFERENCE
+Tumor_Agent.ctl : Loads into ZSTG_TUMOR_AGENT
+Tumor_Ref.ctl : Loads into ZSTG_TUMOR_REFERENCE
+Tumor.ctl : Loads into ZSTG_TUMOR
+
+3. index_script_creator.sql : Script-generator that generates scripts to drop and re-create indexes on relevant tables. 
+For each table creates the following scripts
+1) TableName_drop.sql : Drops all indexes on table
+2) TableName_cols.sql : Creates indexes on all columns 
+3) TableName_lower.sql : Creates functional index, lower(colName) on all columns  
+
+Following scripts are created by this script
+	zstg_agent.cols.sql
+	zstg_agent.drop.sql
+	zstg_agent.lower.sql
+
+	zstg_metastases.cols.sql
+	zstg_metastases.drop.sql
+	zstg_metastases.lower.sql
+
+	zstg_reference.cols.sql
+	zstg_reference.drop.sql
+	zstg_reference.lower.sql
+
+	zstg_tumor_agent.cols.sql
+	zstg_tumor_agent.drop.sql
+	zstg_tumor_agent.lower.sql
+
+	zstg_tumor_agentname.cols.sql
+	zstg_tumor_agentname.drop.sql
+	zstg_tumor_agentname.lower.sql
+
+	zstg_tumor.cols.sql
+	zstg_tumor.drop.sql
+	zstg_tumor.lower.sql
+
+	zstg_tumor_ref.cols.sql
+	zstg_tumor_ref.drop.sql
+	zstg_tumor_ref.lower.sql
+
+	zstg_tumor_reference_combined.cols.sql
+	zstg_tumor_reference_combined.drop.sql
+	zstg_tumor_reference_combined.lower.sql
+
+	zstg_metastases_combined.cols.sql
+	zstg_metastases_combined.drop.sql
+	zstg_metastases_combined.lower.sql
+
+	zstg_tumor_agentname_combined.cols.sql
+	zstg_tumor_agentname_combined.drop.sql
+	zstg_tumor_agentname_combined.lower.sql
+
+	jackson_lab_tmp2.cols.sql
+	jackson_lab_tmp2.drop.sql
+	jackson_lab_tmp2.lower.sql
+
+	jackson_lab_tmp.cols.sql
+	jackson_lab_tmp.drop.sql
+	jackson_lab_tmp.lower.sql
+
+4) splitData.pl : New dataset has a 1-to-many association between Tumor & Metastasis, Tumor & TreatmentAgent, Tumor & References. 
+
+Script combines all such 1-to-many associations from tables loaded in (2) above into a single record to allow comparison with older dataset. 
+
+5) Concatenated records are stored in  
+MetastasisKey.txt 
+ReferenceKey.txt
+TreatmentKey.txt respectively 
+
+(6) These are loaded using SQL-Loader control files 
+
+Tumor_Metastasis_combined.ctl : Loads MetastasisKey into ZSTG_METASTASES_COMBINED 
+Tumor_Ref_combined.ctl : Loads ReferenceKey into ZSTG_TUMOR_REFERENCE_COMBINED 
+Tumor_TreatmentAgent_combined.ctl : Loads TreatmentKey into ZSTG_TUMOR_AGENT_COMBINED
+
+(7) caMOD_sqlldr.sh : Driver script that 
+  a) preprocess.sql 
+      i) index_script_creator.sql and other preprocessing operations like truncating tables,
+      ii) call index_deletion scripts described in (3) 
+  b) Load raw data using SQL Loader and files described in (2)
+  c) Calls splitData.pl and generates concatenated datasets as described in (4)
+  d) Loads these concatenated datasets as described in (5) and (6) 
+  e) postprocess.sql
+      i) calls index_creation script
+      ii) creates Jackson Lab table for new dataset using tables loaded in Step (d) above 
+
+(8) Compare old and new datasets to merge the two 
+ 
